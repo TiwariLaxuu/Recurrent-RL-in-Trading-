@@ -121,6 +121,10 @@ Edit
 ├── tensorboard_logs/    # logging all the training results
 └── README.md
 
+## 📈 OHLCV Interactive Chart
+
+- Download and open the interactive [ohlcv.html](./figures/ohlcv_train_test_split.html) chart locally in your browser.
+
 
 ### 📚 References
 
