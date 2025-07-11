@@ -136,6 +136,21 @@ Or check their GitHub: https://github.com/mementum/backtrader.git
 
 Download the full [trades.csv](./results/backtest_results/executed_trades.csv) file for detailed trade information.
 
+## 📊 Trade Statistics Summary
+
+| Metric                  | Value        |
+|-------------------------|--------------|
+| Total Trades            | 190          |
+| Total PnL               | 2494.69      |
+| Average PnL per Trade   | 13.12        |
+| Win Rate                | 54.21%       |
+| Final Portfolio Value   | 102485.19    |
+| Average Holding Time    | 38.684minute |
+| Longest Win Streak      | 10           |
+| Longest Loss Streak     | 5            |
+
+
+Find all the summary statistics in [summary_statistics.csv]('./results/backtest_results/summary_statistics.csv')
 ### 📚 References
 
 - Hausknecht & Stone. *"Deep Recurrent Q-Learning for POMDPs"*. arXiv 2015.
