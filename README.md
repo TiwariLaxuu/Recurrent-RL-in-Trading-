@@ -132,7 +132,9 @@ Or check their GitHub: https://github.com/mementum/backtrader.git
 ### 💰 Cumulative Profit Curve
 ![Cumulative Profit Curve](./figures/cumulative_profit.png)
 
+## 📄 Example Trade Log
 
+Download the full [trades.csv](./results/backtest_results/executed_trades.csv) file for detailed trade information.
 
 ### 📚 References
 
