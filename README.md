@@ -68,7 +68,7 @@ In this repository, we implement Recurrent RL agents that:
 - Use an RNN layer to maintain a hidden state.
 - Optimize trading policy using PPO with sequence-based inputs.
 
-Check the [`models/`](./models) folder for LSTM-based Actor-Critic implementations.
+Check the [`model/`](./model) folder for LSTM-based Actor-Critic implementations.
 
 ---
 ## 🚀 Getting Started
@@ -115,7 +115,7 @@ Edit
 ├── backtesting.py       # Backtest the trained agent
 ├── models/              # Model architectures (e.g., LSTM-based actor-critic)
 ├── data/                # Market data files (OHLCV CSVs) Train_data and Test_data 
-├── utils/               # Preprocessing, visualization, reward shaping
+├── utils/               # Preprocessing, visualization, data analysis
 ├── results/             # training_results and backtesting_results
 ├── figures/             # backtesting and training all the result figures 
 ├── tensorboard_logs/    # logging all the training results
