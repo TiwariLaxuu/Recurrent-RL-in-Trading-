@@ -124,6 +124,15 @@ Or check their GitHub: https://github.com/mementum/backtrader.git
 
 - Download and open the interactive [ohlcv.html](./figures/ohlcv_train_test_split.html) chart locally in your browser.
 
+## 📊 Trade Performance Visualization
+
+### 📈 Equity Curve
+![Equity Curve](./figures/equity_curve.png)
+
+### 💰 Cumulative Profit Curve
+![Cumulative Profit Curve](./figures/cumulative_curve.png)
+
+
 
 ### 📚 References
 
