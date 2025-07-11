@@ -95,15 +95,15 @@ The script runs the trained model on unseen data and computes key metrics like t
 
 Visualizations include equity curves, profit/loss distributions, and trade heatmaps.
 
-📦 This project uses the excellent backtesting.py library:
+📦 This project uses the excellent backtrader library:
 
 A Python framework for backtesting trading strategies with ease. It allows strategy creation, indicator integration, and fast, interactive visualizations.
 
 You can install it via pip:
 
 ``` bash
-pip install backtesting
-Or check their GitHub: https://github.com/kernc/backtesting.py
+pip install backtrader
+Or check their GitHub: https://github.com/mementum/backtrader.git
 ```
 📂 Directory Structure
 ``` bash
