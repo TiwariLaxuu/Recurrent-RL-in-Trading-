@@ -73,7 +73,7 @@ Check the [`model/`](./model) folder for LSTM-based Actor-Critic implementations
 ---
 ## 🚀 Getting Started
 
-### 🏋️‍♂️ Training
+###  Training
 
 To train a Recurrent Reinforcement Learning (RRL) agent on market data:
 
