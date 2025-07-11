@@ -130,7 +130,7 @@ Or check their GitHub: https://github.com/mementum/backtrader.git
 ![Equity Curve](./figures/equity_curve.png)
 
 ### 💰 Cumulative Profit Curve
-![Cumulative Profit Curve](./figures/cumulative_curve.png)
+![Cumulative Profit Curve](./figures/cumulative_profit.png)
 
 
 
