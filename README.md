@@ -120,6 +120,7 @@ Edit
 ├── figures/             # backtesting and training all the result figures 
 ├── tensorboard_logs/    # logging all the training results
 └── README.md
+```
 
 ## 📈 OHLCV Interactive Chart
 
