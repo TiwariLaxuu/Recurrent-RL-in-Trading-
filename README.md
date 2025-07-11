@@ -150,7 +150,7 @@ Download the full [trades.csv](./results/backtest_results/executed_trades.csv) f
 | Longest Loss Streak     | 5            |
 
 
-Find all the summary statistics in [summary_statistics.csv]('./results/backtest_results/summary_statistics.csv')
+Find all the summary statistics in [summary_statistics.csv](./results/backtest_results/summary_statistics.csv)
 ### 📚 References
 
 - Hausknecht & Stone. *"Deep Recurrent Q-Learning for POMDPs"*. arXiv 2015.
