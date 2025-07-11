@@ -79,6 +79,7 @@ To train a Recurrent Reinforcement Learning (RRL) agent on market data:
 
 ```bash
 python training.py
+``` 
 This script initializes the environment, loads market data, builds the LSTM-based policy network, and trains the agent using a recurrent RL algorithm (e.g., PPO, A2C, or DRQN).
 
 You can modify hyperparameters, network architecture, or observation windows inside training.py.
@@ -86,10 +87,10 @@ You can modify hyperparameters, network architecture, or observation windows ins
 🔍 Backtesting
 After training, evaluate your model using historical data:
 
-bash
-Copy
-Edit
+``` bash
+
 python backtesting.py
+```
 The script runs the trained model on unseen data and computes key metrics like total returns, Sharpe ratio, drawdown, trade log, and win rate.
 
 Visualizations include equity curves, profit/loss distributions, and trade heatmaps.
@@ -100,16 +101,13 @@ A Python framework for backtesting trading strategies with ease. It allows strat
 
 You can install it via pip:
 
-bash
-Copy
-Edit
+``` bash
 pip install backtesting
 Or check their GitHub: https://github.com/kernc/backtesting.py
-
+```
 📂 Directory Structure
-bash
-Copy
-Edit
+``` bash
+
 .
 ├── training.py          # Train your recurrent RL agent
 ├── backtesting.py       # Backtest the trained agent
